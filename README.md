@@ -1,4 +1,3 @@
-"# Module-12-Pandas-Practice-Problem" 
 # Module 12: Pandas Practice Problems
 
 ## 📌 Overview
